@@ -1,15 +1,8 @@
 # 🚀 Welcome to your new awesome project!
 
-This project has been created using **webpack-cli**, you can now run
+This project has been created using **Fetch the data from ApI placeholder**, you can now run
 
 ```
-npm run build
+take the code on visual studio code and  using**Debugger** to know how its worked it
 ```
 
-or
-
-```
-yarn build
-```
-
-to bundle your application
